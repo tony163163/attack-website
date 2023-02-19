@@ -42,3 +42,4 @@ wrapt==1.10.11
 colorama==0.4.1
 bleach==3.1.4
 mitreattack-python==1.1.0
+numpy>=1.22.2 # not directly required, pinned by Snyk to avoid a vulnerability
